@@ -57,10 +57,11 @@ The platform is designed to integrate with travel, transport, food, mapping, and
 
 Most travel applications provide options.
 
-OneHop provides decisions.
+OneHop provides decisions!
 
 Instead of opening multiple apps and manually comparing choices, users simply describe their goal, and OneHop plans, compares, optimizes, and recommends the best solution in seconds.
 
 🏆 Vision
 
 OneHop aims to become the AI Operating System for Travel, enabling users to commute smarter, travel better, and make informed decisions through a single intelligent conversation.
+
