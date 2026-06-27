@@ -59,7 +59,7 @@ Most travel applications provide options.
 
 OneHop provides decisions!
 
-Instead of opening multiple apps and manually comparing choices, users simply describe their goal, and OneHop plans, compares, optimizes, and recommends the best solution in seconds.
+Instead of opening multiple apps and manually comparing choices, users simply describe their goal, and OneHop plans, compares, optimizes, and recommends the best solution in seconds..
 
 🏆 Vision
 
